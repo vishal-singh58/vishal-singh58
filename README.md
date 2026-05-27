@@ -73,13 +73,7 @@ I'm a passionate developer from India 🇮🇳 focused on building **scalable ba
 
 ---
 
-# 🧠 Most Used Languages
 
-<p align="center">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-singh58&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 # 🔥 Contribution Graph
 
@@ -109,13 +103,7 @@ I'm a passionate developer from India 🇮🇳 focused on building **scalable ba
 
 ---
 
-# 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://github.com/vishal-singh58/vishal-singh58/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 <div align="center">
 
